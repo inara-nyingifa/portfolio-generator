@@ -5,7 +5,8 @@ A Node.js command-line application that takes in information via prompts created
 ## Table of Contents
 * [Installation](#Installation)
 * [Usage](#Usage)
-* [Questions](#Question)
+* [Questions](#Questions)
+
 
 ##Installation
 
