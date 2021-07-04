@@ -1,0 +1,26 @@
+# README.md GENERATOR
+
+A Node.js command-line application that takes in information via prompts created to build a professional README.md file for a new project
+
+
+##Table of Contents
+*Installation
+*Usage
+*Questions
+
+
+##Installation
+
+1. Clone this repository 
+2. Run npm install to install dependencies before running the application on your command line.
+
+##Usage
+
+1. after installing your packages run node index.js to start the application
+2. You will be prompted with questions, answer them
+2. After answering all of the propmted questions your README.md file will auto generate
+
+
+
+##Questions
+Please send me an email at Inarasnyingifa@gmail.com or contact me through my GitHub for and questions or comments
